@@ -1,0 +1,7 @@
+dht11.c:10:13:dht11_gpio_config_output	32	static
+dht11.c:23:13:dht11_gpio_config_input	32	static
+dht11.c:36:13:dht11_gpio_output_set	8	static
+dht11.c:41:13:dht11_gpio_output_clear	8	static
+dht11.c:46:12:dht11_gpio_input_read	8	static
+dht11.c:53:13:dht11_delay_usec	16	static
+dht11.c:59:16:read_dht11_sensor	40	static
